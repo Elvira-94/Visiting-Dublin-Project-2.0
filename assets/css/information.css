@@ -67,7 +67,7 @@ body {
 /* Hero Section */
 
 .information-container {
-  background: url("/assets/images/things-to-do.jpg");
+  background: url("../images/things-to-do.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   min-height: 37.5rem;
