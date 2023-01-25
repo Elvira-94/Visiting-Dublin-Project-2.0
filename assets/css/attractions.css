@@ -23,10 +23,6 @@ body {
 }
 
 /* Navbar Bootstrap 5 */
-.bg-light {
-  background-color: transparent !important;
-}
-
 .navbar-nav a {
   font-size: 18px;
   text-transform: uppercase;
